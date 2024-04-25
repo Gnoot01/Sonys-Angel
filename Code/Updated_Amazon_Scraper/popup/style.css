@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body {
+    width: 300px;
+}
+#header {
+    background-color: #764ba2;
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+#main-content {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.form-control {
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.btn {
+    width: 100%;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+}
+.btn:hover {
+    cursor: pointer;
+}
